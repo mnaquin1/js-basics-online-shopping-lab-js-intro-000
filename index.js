@@ -63,4 +63,3 @@ if (!carNumber){
   return 'Sorry, we don\'t have a credit card on file.'
 }
 }
-
